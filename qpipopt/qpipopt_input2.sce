@@ -1,4 +1,5 @@
 //Find x in R^6 such that:
+// Check if the number of input is more
 conMatrix= [1,-1,1,0,3,1;
 -1,0,-3,-4,5,6;
 2,5,3,0,1,0

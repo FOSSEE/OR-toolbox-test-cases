@@ -1,4 +1,5 @@
 //Find x in R^6 such that:
+// Check for the Upper Bound of constraints is which should be equal to the number of constraints
 conMatrix= [1,-1,1,0,3,1;
 -1,0,-3,-4,5,6;
 2,5,3,0,1,0

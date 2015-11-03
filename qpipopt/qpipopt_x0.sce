@@ -1,4 +1,5 @@
 //Find x in R^6 such that:
+// Check if the user gives initial guess matrix as a row vector 
 conMatrix= [1,-1,1,0,3,1;
 -1,0,-3,-4,5,6;
 2,5,3,0,1,0
